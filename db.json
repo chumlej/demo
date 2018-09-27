@@ -1,5 +1,6 @@
 {
   "data": [
+    {
   "chartDataHome": [
     {
       "title": "Anzahl der Requests von Mai 2012 bis Juni 2013",
@@ -176,5 +177,4 @@
   "tableDataHome2": [],
   "tableDataHome3": [],
   "tableDataHome4": []
-}
 }
