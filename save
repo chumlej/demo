@@ -221,18 +221,7 @@
                 723,
                 "Lorem ipsum"
               ],
-              [
-                "Body Short 8",
-                "c982a236-b0e5-11e8-96f8-529269fb1459",
-                "http://abacho.de",
-                "GET",
-                "233.135.197.150",
-                "12:25/17-09-2018",
-                "application/octet-stream",
-                347652,
-                987,
-                "Lorem ipsum"
-              ],
+              [],
               [
                 "Body Short 9",
                 "1a6e5ac8-b0e6-11e8-96f8-529269fb1459",
@@ -392,18 +381,7 @@
                 465,
                 "Lorem ipsum"
               ],
-              [
-                "Body Short 23",
-                "39372448-b0e7-11e8-96f8-529269fb1459",
-                "http://worldpages.de",
-                "DELETE",
-                "161.162.33.252",
-                "20:40/18-09-2018",
-                "application/octet-stream",
-                580515,
-                216,
-                "Lorem ipsum"
-              ],
+              [],
               [
                 "Body Short 24",
                 "3de66ba2-b0e7-11e8-96f8-529269fb1459",
