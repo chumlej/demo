@@ -1,0 +1,88 @@
+{
+  "chartDataDowntime": [
+    {
+      "title": "Downtime des Servers von Mai 2012 bis Juli 2013",
+      "color": "blue",
+      "selection": "Bar",
+      "chartTimeStart": {
+        "year": "2012",
+        "month": "5"
+      },
+      "chartTimeEnd": {
+        "year": "2013",
+        "month": "7"
+      },
+      "indicator": "Requests",
+      "origin": "Home",
+      "timeline": true,
+      "date": "11/9/2018",
+      "simple": null,
+      "id": 1
+    }
+  ],
+  "tableDataDowntime": [
+    {
+      "title": "Server-Downtime diese Jahres (in Sekunden)",
+      "color": "",
+      "selection": "Table",
+      "chartTimeStart": {
+        "year": "2013",
+        "month": "1"
+      },
+      "chartTimeEnd": {
+        "year": "2013",
+        "month": "12"
+      },
+      "indicator": "Downtime",
+      "origin": "Home",
+      "timeline": true,
+      "date": "12/9/2018",
+      "simple": true,
+      "id": 1
+    }
+  ],
+  "chartDataTimeouts": [
+    {
+      "title": "Anzahl der Timeouts von Januar 2012 bis Mai 2013",
+      "color": "green",
+      "selection": "Line",
+      "chartTimeStart": {
+        "year": "2012",
+        "month": "1"
+      },
+      "chartTimeEnd": {
+        "year": "2013",
+        "month": "5"
+      },
+      "indicator": "Timeouts",
+      "origin": "Home",
+      "timeline": true,
+      "date": "12/9/2018",
+      "simple": null,
+      "id": 1,
+      "comment": ""
+      }
+    ],
+    "tableDataTimeouts": [
+    {
+      "title": "Server Timeouts der letzten 3 Jahre",
+      "color": "",
+      "selection": "Table",
+      "chartTimeStart": {
+        "year": "2012",
+        "month": "1"
+      },
+      "chartTimeEnd": {
+        "year": "2014",
+        "month": "12"
+      },
+      "indicator": "Timeouts",
+      "origin": "Home",
+      "timeline": true,
+      "date": "12/9/2018",
+      "simple": true,
+      "id": 1,
+      "comment": ""
+     }
+    ]
+}
