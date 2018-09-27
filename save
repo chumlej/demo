@@ -45,10 +45,6 @@
               "1877",
               "2123"
             ],
-            [],
-            [],
-            [],
-            []
           ]
         }
       ],
@@ -176,18 +172,7 @@
                 435,
                 "Lorem ipsum"
               ],
-              [
-                "Body Short 3",
-                "7c3b677a-b0e4-11e8-96f8-529269fb1459",
-                "http://yahoo.de",
-                "DELETE",
-                "147.215.200.186",
-                "00:50/17-09-2018",
-                "application/octet-stream",
-                543234,
-                333,
-                "Lorem ipsum"
-              ],
+              [],
               [
                 "Body Short 4",
                 "93fe0c78-b0e4-11e8-96f8-529269fb1459",
@@ -346,18 +331,7 @@
                 490,
                 "Lorem ipsum"
               ],
-              [
-                "Body Short 17",
-                "1b2aa6fa-b0e7-11e8-96f8-529269fb1459",
-                "http://peoplesearch.com",
-                "GET",
-                "126.73.33.177",
-                "08:40/18-09-2018",
-                "text/plain",
-                615981,
-                643,
-                "Lorem ipsum"
-              ],
+              [],
               [
                 "Body Short 18",
                 "1f9942c8-b0e7-11e8-96f8-529269fb1459",
