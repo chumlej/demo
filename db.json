@@ -1,86 +1,8 @@
 {
-  "chartDataHome": [
+  "todos": [
     {
-      "title": "Anzahl der Requests von Mai 2012 bis Juni 2013",
-      "color": "Green",
-      "selection": "Line",
-      "chartTimeStart": {
-        "year": "2012",
-        "month": "5"
-      },
-      "chartTimeEnd": {
-        "year": "2013",
-        "month": "6"
-      },
-      "indicator": "Requests",
-      "origin": "Home",
-      "timeline": true,
-      "date": "18/9/2018",
-      "simple": null,
       "id": 1,
-      "comment": ""
-    }
-  ],
-  "tableDataHome": [
-    {
-      "title": "Alle HTTP-Requests der letzten zwei Tage",
-      "color": "",
-      "selection": "Table",
-      "dateSelected": "",
-      "indicator": "",
-      "origin": "Home",
-      "timeline": true,
-      "date": "12/9/2018",
-      "simple": false,
-      "id": 1,
-      "comment": ""
-    }
-  ],
-  "chartDataRequests": [
-    {
-      "title": "Vergleich der Server-Requests im April 2012/2013/2014",
-      "color": "",
-      "selection": "Pie",
-      "indicator": "Requests",
-      "origin": "Home",
-      "timeline": false,
-      "date": "11/9/2018",
-      "chartDates": {
-        "years": [
-          "2012",
-          "2013",
-          "2014"
-        ],
-        "months": [
-          "4",
-          "4",
-          "4"
-        ],
-        "counter": 3
-      },
-      "id": 1,
-      "comment": "hola"
-    }
-  ],
-  "tableDataRequests": [
-    {
-      "title": "Server-Requests der letzten zwei Jahre",
-      "color": "",
-      "selection": "Table",
-      "chartTimeStart": {
-        "year": "2012",
-        "month": "1"
-      },
-      "chartTimeEnd": {
-        "year": "2013",
-        "month": "12"
-      },
-      "indicator": "Requests",
-      "origin": "Home",
-      "timeline": true,
-      "date": "12/9/2018",
-      "simple": true,
-      "id": 1
+      "text": "hi"
     }
   ]
 }
